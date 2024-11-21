@@ -1,12 +1,12 @@
 - id: 0
   primaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  title: The Wizard Cat
-  subtitle: A Magical Evening
-  detail: A whimsical cat donning a wizard's attire, standing on hind legs amidst a starry night sky and a crescent moon, casting a spell of charm.
+  title: Test title
+  subtitle: Test subtitle
+  detail: Test details
   secondaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  currency: £
-  amount: 55
-  endTime: 2023-04-25T00:05:00+00:00
+  currency: $
+  amount: 123456
+  endTime: 2024-12-10T00:05:00+00:00
 
 - id: 1
   primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
