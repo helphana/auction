@@ -1,40 +1,39 @@
 - id: 0
-  primaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
+  primaryImage: 1
   title: Test title
   subtitle: Test subtitle
   detail: Test details
-  secondaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
+  secondaryImage: 1
   currency: $
   amount: 123456
   endTime: 2024-12-10T00:05:00+00:00
 
 - id: 1
-  primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  primaryImage: 1
   title: "City of Widows #2," 12"x16", Watercolor, 2024
   subtitle: Test subtitle 2
   detail: test details
-  secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  secondaryImage: 1
   currency: $
   amount: 16
   endTime: 2024-12-10T00:05:00+00:00
 
 - id: 2
-  primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  primaryImage: 1
   title: "In Our Lifetime", 11x17", Digital Art, 2024
   subtitle: Test subtitle 2
   detail: test details
-  secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  secondaryImage: 1
   currency: $
   amount: 15
   endTime: 2024-12-10T00:05:00+00:00
 
-
 - id: 3
-  primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  primaryImage: 1
   title: "Intifada", 11x17'', Collage Art, 2023
   subtitle: Test subtitle 2
   detail: test details
-  secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  secondaryImage: 1
   currency: $
   amount: 15
   endTime: 2024-12-10T00:05:00+00:00
