@@ -21,8 +21,8 @@
 - id: 2
   primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
   title: "In Our Lifetime", 11x17", Digital Art, 2024
-  subtitle: 
-  detail: 
+  subtitle: Test subtitle 2
+  detail: test details
   secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
   currency: $
   amount: 15
@@ -32,8 +32,8 @@
 - id: 3
   primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
   title: "Intifada", 11x17'', Collage Art, 2023
-  subtitle: 
-  detail: 
+  subtitle: Test subtitle 2
+  detail: test details
   secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
   currency: $
   amount: 15
