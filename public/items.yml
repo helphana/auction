@@ -10,7 +10,7 @@
 
 - id: 1
   primaryImage: 1
-  title: "City of Widows #2," 12"x16", Watercolor, 2024
+  title: City of Widows num 2, 12x16, Watercolor, 2024
   subtitle: Test subtitle 2
   detail: test details
   secondaryImage: 1
@@ -20,7 +20,7 @@
 
 - id: 2
   primaryImage: 1
-  title: "In Our Lifetime", 11x17", Digital Art, 2024
+  title: In Our Lifetime, 11x17, Digital Art, 2024
   subtitle: Test subtitle 2
   detail: test details
   secondaryImage: 1
@@ -30,7 +30,7 @@
 
 - id: 3
   primaryImage: 1
-  title: "Intifada", 11x17'', Collage Art, 2023
+  title: Intifada, 11x17, Collage Art, 2023
   subtitle: Test subtitle 2
   detail: test details
   secondaryImage: 1
